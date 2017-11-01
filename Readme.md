@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Yanina Gerts](https://up.htmlacademy.ru/htmlcss/19/user/387577).
-* Наставник: `Неизвестно`.
+* Наставник: [Анна Пономарёва](https://htmlacademy.ru/profile/id153610).
 
 ---
 
